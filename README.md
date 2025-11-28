@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">💻 Skills & Tools</h3>
 
 ###
@@ -43,8 +41,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">🔎 Talk with me</h3>
 
