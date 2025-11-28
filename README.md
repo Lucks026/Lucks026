@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="center">Hey! I'm Lucas ☕<br>I'm 18 and totally obsessed with programming — especially back-end stuff ⚙️💻<br>I'm currently studying Systems Analysis and Development, and I'm always learning new things and leveling up my skills</h4>
+<h3 align="left">Hey! I'm Lucas ☕<br>I'm 18 and totally obsessed with programming — especially back-end stuff ⚙️💻<br>I'm currently studying Systems Analysis and Development, and I'm always learning new things and leveling up my skills</h3>
 
 ###
 
