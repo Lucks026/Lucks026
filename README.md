@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hey! I'm Lucas ☕<br>I'm 18 and totally obsessed with programming — especially back-end stuff<br>I'm currently studying Systems Analysis and Development, always learning new things to level up my skills</h3>
+<h3 align="left">Hey! I'm Lucas ☕<br>I'm 18 and I really like programming, especially back-end stuff<br>I'm currently studying Systems Analysis and Development, always learning new things to level up my skills</h3>
 
 ###
 
