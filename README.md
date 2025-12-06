@@ -50,16 +50,9 @@
   <a href="https://www.linkedin.com/in/lucas-lemos-barbosa-7ab396362/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/lucks026" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://discordapp.com/users/725514853732843630" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Lucks026/Lucks026/output/snake.svg" alt="Snake animation" />
 
 ###
