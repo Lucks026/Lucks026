@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Lucks026@bash:~$ cat bio.txt<br>Lucas | 18 y/o | Back-end Developer<br>Studying Systems Analysis and Development.<br>Focus on Back-end Development.<br><br>Lucks026@bash:~$ ./level_up.sh<br>[+] Status: Always learning new tech to level up my skills!</h3>
+<h3 align="left">Lucks026@bash:~$ cat bio.txt<br>Lucas | 19 y/o | Back-end Developer<br>Studying Systems Analysis and Development.<br>Focus on Back-end Development.<br><br>Lucks026@bash:~$ ./level_up.sh<br>[+] Status: Always learning new tech to level up my skills!</h3>
 
 ###
 
