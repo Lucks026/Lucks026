@@ -2,11 +2,7 @@
 
 ###
 
-<h3 align="left">Lucks026@bash:~$ cat bio.txt<br>Lucas | 19 y/o | Back-end Developer<br>Studying Systems Analysis and Development.<br>Focus on Back-end Development.<br><br>Lucks026@bash:~$ ./level_up.sh<br>[+] Status: Always learning new tech to level up my skills!</h3>
-
-###
-
-<h3 align="left">💻 Skills & Tools</h3>
+<h3 align="left">Lucks026@bash:~$ cat bio.txt<br>Lucas | 18 y/o | Back-end Developer<br>Studying Systems Analysis and Development.<br>Focus on Back-end Development.<br><br>Lucks026@bash:~$ ./level_up.sh<br>[+] Status: Always learning new tech to level up my skills!</h3>
 
 ###
 
@@ -24,20 +20,12 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/2b/63/81/2b638133d1f4e3cbbfdfe60f44caa749.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
